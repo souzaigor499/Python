@@ -1,0 +1,21 @@
+Cidade,Estado
+São Paulo,São Paulo
+Rio de Janeiro,Rio de Janeiro
+Brasília,Distrito Federal
+Salvador,Bahia
+Fortaleza,Ceará
+Belo Horizonte,Minas Gerais
+Manaus,Amazonas
+Curitiba,Paraná
+Recife,Pernambuco
+Goiânia,Goiás
+Belém,Pará
+Porto Alegre,Rio Grande do Sul
+Guarulhos,São Paulo
+Campinas,São Paulo
+São Luís,Maranhão
+São Gonçalo,Rio de Janeiro
+Maceió,Alagoas
+Duque de Caxias,Rio de Janeiro
+Campo Grande,Mato Grosso do Sul
+Natal,Rio Grande do Norte

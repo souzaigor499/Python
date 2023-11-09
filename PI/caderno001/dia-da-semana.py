@@ -8,4 +8,4 @@ m0 = mes + 12 * ((14 - mes) // 12) - 2
 d0 = (dia + x + (31 * m0)//12) % 7
 
 
-print(d0)
+print(d0)       
